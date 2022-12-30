@@ -1,4 +1,5 @@
 # Andrej's Deep Learning Course Exercises
+[Andrej's youtube](https://www.youtube.com/@AndrejKarpathy)<br/>
 
 Lecture 1 - micrograd exercises<br/>
 Lecture 2 - Trigram Language Model + other exericses<br/>
