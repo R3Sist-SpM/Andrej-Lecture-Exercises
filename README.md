@@ -1,4 +1,4 @@
-# Andrej's Deep Learning Lectures' Exercises
+# Andrej's deep learning lectures' exercises
 [Andrej's Youtube](https://www.youtube.com/@AndrejKarpathy)<br/>
 
 Lecture 1 - micrograd exercises<br/>
