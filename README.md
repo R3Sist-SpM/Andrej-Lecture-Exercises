@@ -1,4 +1,4 @@
-# Andrej-Lecture-Exercises
+# Andrej's Deep Learning Course Exercises
 
 Lecture 1 - micrograd exercises<br/>
 Lecture 2 - Trigram Language Model + other exericses<br/>
